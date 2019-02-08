@@ -18,6 +18,13 @@ class ViewController: UIViewController {
 
     @IBAction func pressMeButtonPressed(_ sender: Any) {
         print("Hello World")
+        
+        //make second button.
+        
+        
+    }
+    @IBAction func goButtonPressed(_ sender: UIButton) {
+        print("I did it!")
     }
 }
 
